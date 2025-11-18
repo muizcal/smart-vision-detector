@@ -1,8 +1,6 @@
 streamlit>=1.20.0
-torch              
-torchvision         
-opencv-python
-Pillow
+ultralytics>=8.0.20
+pillow
 numpy
 pandas
 imageio
