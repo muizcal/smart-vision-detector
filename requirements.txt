@@ -1,0 +1,8 @@
+streamlit>=1.20.0
+torch              
+torchvision         
+opencv-python
+Pillow
+numpy
+pandas
+imageio
